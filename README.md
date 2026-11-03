@@ -236,6 +236,6 @@ The CI workflow can execute the Pytest suite on Windows and Linux environments t
 
 **Jayaram S**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/1jayaram
 
 ---
